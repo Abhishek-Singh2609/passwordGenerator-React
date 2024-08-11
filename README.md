@@ -8,7 +8,7 @@ A simple React application that generates secure random passwords. Customize pas
 - **Include Numbers:** Option to include digits in the generated password.
 - **Include Special Characters:** Option to include special characters like `!@#$%^&*-_+=[]{}~\``.
 - **Copy to Clipboard:** Easily copy the generated password with a single click.
-- 
+  
 ![PassGenerator](https://github.com/user-attachments/assets/2cc13ebd-19a2-41a9-bb9a-bfb3e938d620)
 
 ## Installation
