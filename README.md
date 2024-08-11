@@ -25,13 +25,13 @@ To run this project locally, follow these steps:
 4. **Start the development server:**
     npm start
 
-  ## Usage
+## Usage
 1. Adjust the slider to set the desired password length.
 2. Check the boxes to include numbers and/or special characters.
 3. The password will be generated automatically as you adjust the settings.
 4. Click the "Copy" button to copy the generated password to your clipboard.
    
-   ## Technologies Used
-**React:** A JavaScript library for building user interfaces.
-**Tailwind CSS:** A utility-first CSS framework for styling.
-**JavaScript:** The programming language used for logic and interactivity.
+## Technologies Used
+- **React:** A JavaScript library for building user interfaces.
+- **Tailwind CSS:** A utility-first CSS framework for styling.
+- **JavaScript:** The programming language used for logic and interactivity.
