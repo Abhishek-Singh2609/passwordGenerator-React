@@ -1,12 +1,15 @@
 # Password Generator
 
 A simple React application that generates secure random passwords. Customize password length, include numbers, and special characters. The app features an intuitive UI with real-time updates and a copy-to-clipboard function. Ideal for creating strong, unique passwords quickly and easily.
+
 ## Features
 
 - **Customizable Length:** Choose a password length between 6 and 100 characters.
 - **Include Numbers:** Option to include digits in the generated password.
 - **Include Special Characters:** Option to include special characters like `!@#$%^&*-_+=[]{}~\``.
 - **Copy to Clipboard:** Easily copy the generated password with a single click.
+- 
+![PassGenerator](https://github.com/user-attachments/assets/2cc13ebd-19a2-41a9-bb9a-bfb3e938d620)
 
 ## Installation
 
